@@ -1,6 +1,5 @@
 {
-  "name": "yarn2dependabot",
-  "packageManager": "yarn@3.2.4",
+  "name": "pnpm-dependabot-test",
   "dependencies": {
     "date-fns": "^2.29.3",
     "~": "link:./src"
